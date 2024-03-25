@@ -1,11 +1,15 @@
 +++
-title = '01_github_pages_with_hugo'
-date = 2024-03-25T15:03:05+08:00
-draft = true
+title = 'Github Pages + Hugo 搭建个人静态站点'
+date = 2024-03-25
+draft = false
 +++
 
-## Introduction
+## Hugo基本用法
 
-This is **bold** text, and this is *emphasized* text.
+参考[官方文档](https://gohugo.io/getting-started/quick-start/) 
 
-Visit the [Hugo](https://gohugo.io) website!
+## Hugo + Github Pages
+
+参考[官方文档](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+## 腾讯云域名配置[参考文档](https://cloud.tencent.com/developer/article/2019284)
